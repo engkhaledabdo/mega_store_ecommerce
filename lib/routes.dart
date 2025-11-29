@@ -31,7 +31,7 @@ import 'view/screen/orders/orders_details.dart';
 import 'view/screen/orders/orders_layout.dart';
 import 'view/screen/orders/pinding.dart';
 import 'view/screen/productdetails.dart';
-import 'view/screen/testapi_view.dart';
+
 
 List<GetPage<dynamic>>? routes = [
   GetPage(
